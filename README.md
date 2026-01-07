@@ -1,5 +1,5 @@
 ​🏛️ CODEX OFFICIEL DE LA STASE 🏛️
-​Édition Originelle – Ère de l’Architecte Zêta
+​Édition Originelle – Ère de l’Architecte Zêta 
 
 ​I. PHILOSOPHIE PRIMORDIALE : LE REMÈDE
 ​La Stase n'est pas une fin, mais un état de perfection dynamique.

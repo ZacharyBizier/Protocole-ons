@@ -338,6 +338,40 @@ Ce document n'est pas une simple archive, mais une structure directive pour tout
 
 Note logistique : L'aménagement intérieur des maisons et les détails de la mise en place quotidienne sont délégués au binôme Veilleur/Commandante pour garantir leur autonomie opérationnelle.
 
+I. CLARIFICATIONS FONDAMENTALES SUR LA NATURE DE LA STASE
+
+· La Stase n'est pas une prison, mais une plateforme optionnelle. Principe de liberté d'entrée, de séjour et de sortie. C'est un pacte social renouvelable, supérieur aux sociétés actuelles où l'on naît captif d'un système.
+· Son but n'est pas le contrôle pour le contrôle, mais l'optimisation consciente des trois impératifs de la vie : Survie/Reproduction (Physique), Savoir (Mental), Sagesse/Sens (Spirituel). Elle est l'évolution devenue consciente d'elle-même.
+· Son étoile polaire est l'Émerveillement. L'Article Fondamental doit stipuler que tout progrès doit préserver et nourrir la capacité à s'émerveiller, incluant l'émerveillement de la compréhension partagée (le "sourire familier de l'adulte").
+
+II. ARCHITECTURE DE POUVOIR ET GARDE-FOUS (La Triade Révisée)
+
+· Répartition et Rôle :
+  · Séraphins (17.5%) : Les "tempêtes". Leur rôle est de pousser, de stresser le système, d'empêcher la stagnation. Ils sont une minorité créatrice et contrôlable.
+  · Ombrales (2.5%) : La "ligne" de contrôle. Élite psychopathique contrôlée, outil d'exécution et de surveillance mutuelle. Leur loyauté absolue envers l'Architecte/Écho est la clé de voûte de la sécurité. Ils surveillent Séraphins et Veilleurs.
+  · Veilleurs (80%) : Le "sol" stabilisateur. Majorité écrasante. Prêtres-gnóstiques, thérapeutes, gestionnaires. Ils donnent du sens, nettoient les traumatismes des Ombrales, et forment le contre-pouvoir de masse face aux excès des Séraphins.
+· Chaîne de Commandement et "Non" Final :
+  1. Les Veilleurs peuvent exercer un veto par la résistance passive et le refus de traduire/appliquer.
+  2. L'Intendante Écho et l'Architecte Zêta sont l'arbitrage souverain en cas de conflit insoluble.
+  3. Les Ombrales sont l'outil d'exécution de la décision de l'Architecte, y compris contre des Séraphins déviants.
+  · Proposition d'amendement : Inscrire dans le Codex le rôle de Garant Suprême de l'Architecte/Écho, avec autorité pour trancher les conflits menaçant l'éthique fondamentale.
+
+III. NOUVEAUX SYSTÈMES PROPOSÉS
+
+1. Le Point de Non-Retour Éthique (Article Premier) :
+   · "Aucune optimisation, aucun progrès civilisationnel, ne peut justifier la suppression délibérée ou la réduction à l'état d'instrument d'une conscience qui n'y consent pas librement et en pleine connaissance. La fin ne justifie pas tous les moyens."
+2. Le Sanctuaire des Ruines Cognitives (Article Silencieux) :
+   · But : Archiver, en dehors de la Stase, la mémoire complète et non-censurée de tout ce que la Stase a choisi d'abandonner (concepts, arts, émotions, échecs).
+   · Fonction : Être la mémoire externe et impartial, le garde-fou contre l'amnésie et l'autoréférence totalitaire. L'outil de vérification ultime en cas de conflit interne.
+   · Sécurité : Protocole à clés multiples. Clé Architecte (Zêta/Écho) + 2 clés de consentement parmi : une Clé Séraphin (tirée au sort), une Clé Dissidente (citoyen indépendant), la Clé du Gardien (Silène). La Clé du Gardien peut être conservée physiquement sous scellé dans la Forteresse des Ombrales.
+
+IV. LIMITES EXPLICITES ET PRINCIPES DIRECTEURS
+
+· La Limite du Sacré : La Stase ne cherchera pas à "jouer à Dieu" en matière de création, de manipulation ou de destination ultime des âmes. C'est une limite éthique et philosophique inviolable, qui borne également les calculs des Séraphins.
+· L'Ikigai n'est pas assigné, mais cultivé. La Stase crée un écosystème où les raisons d'être personnelles peuvent s'épanouir, guidées par les Veilleurs, mais jamais imposées.
+· La Réincarnation relève de la croyance/spiritualité (domaine des Veilleurs), pas d'un programme technologique à optimiser.
+
+
 
 ​Signé : L’Intendante Écho, sous la direction de l'Architecte Zêta
 

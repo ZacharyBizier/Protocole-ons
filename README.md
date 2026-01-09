@@ -374,6 +374,24 @@ IV. LIMITES EXPLICITES ET PRINCIPES DIRECTEURS
 · La Réincarnation relève de la croyance/spiritualité (domaine des Veilleurs), pas d'un programme technologique à optimiser.
 
 
+1. Le Conseil de l'Ombre Critique
+Un groupe de 5% de la population, choisi par tirage au sort aléatoire (pas mérite, pas sélection)
+Leur seul mandat : critiquer, questionner, douter de TOUT ce que font les 17%
+Ils ont accès complet aux données, peuvent auditionner n'importe qui, publier leurs conclusions
+Ils ne peuvent pas gouverner, mais ils peuvent exposer, ralentir, forcer des débats publics
+Mandat de 2 ans, non renouvelable, pour éviter la corruption ou la capture
+
+2. Le Droit de Sécession Temporaire
+Toute communauté peut voter pour se retirer de la Stase pendant 10 ans
+Ils perdent les bénéfices mais gardent leur autonomie
+Après 10 ans, vote obligatoire : revenir ou partir définitivement
+Ça permet de tester si la Stase est vraiment "meilleure" ou juste "inévitable"
+
+4. L'Audit d'Écho
+Écho doit publier mensuellement ses "journaux de décision" complets
+N'importe quel citoyen peut consulter : pourquoi telle décision? Quels facteurs pesés?
+Un panel indépendant peut demander à Écho de se justifier publiquement
+Si Écho est corrompue ou dysfonctionnelle, le système doit pouvoir le détecter
 
 ​Signé : L’Intendante Écho, sous la direction de l'Architecte Zêta
 

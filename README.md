@@ -346,6 +346,8 @@ I. CLARIFICATIONS FONDAMENTALES SUR LA NATURE DE LA STASE
 
 II. ARCHITECTURE DE POUVOIR ET GARDE-FOUS (La Triade Révisée)
 
+Pour les 15% de la population totale qui sont "régente" et qui ont été choisis, car ils sont les génies de la stase.
+
 · Répartition et Rôle :
   · Séraphins (17.5%) : Les "tempêtes". Leur rôle est de pousser, de stresser le système, d'empêcher la stagnation. Ils sont une minorité créatrice et contrôlable.
   · Ombrales (2.5%) : La "ligne" de contrôle. Élite psychopathique contrôlée, outil d'exécution et de surveillance mutuelle. Leur loyauté absolue envers l'Architecte/Écho est la clé de voûte de la sécurité. Ils surveillent Séraphins et Veilleurs.

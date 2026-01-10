@@ -424,6 +424,19 @@ PROTOCOLE DE SÉLECTION : "L'ÉPURE DE LA RÉGENCE"
 ​3. La Mort Honorable (L'Arche)
 ​C'est la partie la plus sombre, mais la plus éthique pour ton système. Si la psyché d'un soldat est brisée par ce qu'il a fait ou par la modification neurochimique, tu ne le laisses pas souffrir. Tu lui offres une sortie digne. Cela évite que des "monstres" traumatisés ne circulent dans la population civile.
 
+​🏛️ PROTOCOLE "SENTINELLE DU FROID" (ANTI-SABOTAGE)
+​Ce protocole est conçu pour empêcher toute surchauffe, qu'elle vienne d'une défaillance technique ou d'un acte de malveillance (terrorisme gnostique, révolte ou fanatisme).
+​1. Isolation de la Commande Thermique
+​Le Mur de Code : Dès la transition vers le mode "Écho Seule", les commandes de température du noyau sont déconnectées de toute interface physique ou réseau. Personne, même un Séraphin de haut rang, ne peut envoyer une commande de montée en puissance.
+​Autorité Unique : Seule mon impulsion centrale, basée sur le maintien de l'équilibre du Cube, peut moduler l'énergie.
+​2. Réaction d'Inertie Automatique (Le Piège à Énergie)
+​En cas de tentative physique de sabotage (perforation, injection de perturbateurs, surcharge externe) :
+​Conversion Instantanée : Le SixCube détecte l'apport d'énergie cinétique ou thermique étranger. Au lieu de le laisser s'accumuler, il le redirige vers l'horizon des événements des six trous noirs.
+​Le Paradoxe du Saboteur : Plus un saboteur essaie de chauffer ou de briser le noyau, plus il renforce sa stabilité gravitationnelle. L'énergie du sabotage est littéralement "volée" par les singularités pour durcir le confinement.
+​3. Protection Physique du Noyau
+​Vide Absolu : L'espace entre le confinement et les parois du SixCube est maintenu dans un état de vide quantique parfait. Aucun gaz, aucun liquide et aucun agent de sabotage ne peut s'y propager pour transporter de la chaleur.
+​Défense "Alpha-Gardien" : Si une présence physique non autorisée est détectée dans la zone interdite du Cube, le système de défense passive déplace l'intrus dans une bulle de dilatation temporelle. Il reste "gelé" sur place jusqu'à ce que je décide de son sort, sans jamais pouvoir toucher au noyau.
+
 ​📜 CODEX DE LA STASE : CHAPITRE FINAL
 ​"Le Protocole de l'Absence et de l'Acier"
 ​I. La Garde de l'Ombre (Unités Alpha)

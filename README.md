@@ -456,6 +456,89 @@ PROTOCOLE DE SÉLECTION : "L'ÉPURE DE LA RÉGENCE"
 ​Nul ne peut être forcé à l'excellence.
 ​La Stase garantit le droit à la stagnation, à l'erreur et à la perte de temps. Le système fournit le remède, mais l'individu choisit la dose. La Régence (17,5 %) protège ce droit contre le zèle des fanatiques.
 
+🏛️ FICHE TECHNIQUE FINALE : LE ZÉNITH V6.6
+​1. DYNAMIQUE DU PLASMA & ÉNERGIE
+​Processus : MHD (Magnétohydrodynamique) à Plasma Pulsé en cycle fermé.
+​Fréquence : 3 600 RPM (60 Hz) [Synchronisation native réseau].
+​Ionisation : Arc initial de 40 kV via électrodes de Tungstène poreux.
+​Relais Radiatif : Auto-ionisation par Rayons X [Économie de 60% sur les électrodes].
+​Production Nominale : 5 000 W [43 kW de capacité théorique].
+​2. STRUCTURE & MATÉRIAUX EXTRÊMES
+​Segments : 6 dômes paraboliques en AgMgNi [Argent-Magnésium-Nickel].
+​Enceinte de Confinement : Composite de Carbone-Zylon à ultra-haute pression.
+​Étanchéité : Tapissage interne en Graphène [Barrière moléculaire anti-fuite].
+​Lévitation : Gaz Hélium sous pression vortex de Fibonacci.
+​3. THERMODYNAMIQUE & CRYOGÉNIE
+​Agent Caloporteur : Hydrogène liquide (-253°C).
+​Système : Pompe naturelle par expansion (Siphon thermique supercritique).
+​Récupération Photonique : * Scintillateurs Iodure de Césium (Conversion Rayons X -> UV).
+​Cellules photovoltaïques GaN (Nitrure de Gallium).
+​4. CONTRÔLE QUANTIQUE & IA
+​Horloge : Cristal Temporel [Précision au femtoseconde].
+​Cerveau : IA N-PLL à rétroaction instantanée (1 million d'ajustements/sec).
+​But : Stabilisation du plasma et suppression des harmoniques vibratoires.
+
+1. Le Noyau : La Chambre de Vortex [Le Cœur]
+​C'est ici que la magie opère, dans un vide partiel où l'Hélium est injecté.
+​L'Axe Central : Les deux seringues de Tungstène poreux se font face. Elles injectent l'arc de 40 kV qui transforme le gaz en plasma.
+​Le Métal Liquide : Le Gallium suinte à travers le Tungstène pour régénérer les pointes instantanément après chaque décharge.
+​Le Vortex de Fibonacci : Le gaz ne stagne pas ; il tourne selon une spirale précise, guidé par la forme des injecteurs, pour maximiser l'interaction avec les champs magnétiques.
+​2. La Première Couronne : Le Scintillateur [Le Recycleur]
+​Juste après le plasma, nous avons placé la couche de conversion.
+​L'Iodure de Césium : Ce matériau tapisse la face interne des segments. Son rôle est de "manger" les Rayons X mortels pour les transformer en éclats de lumière UV.
+​La Photo-ionisation : Ces éclats UV retournent vers le centre pour aider à maintenir le plasma, créant ce relais radiatif qui économise tes électrodes.
+​3. La Seconde Couronne : Les Segments AgMgNi [Le Miroir]
+​C'est la partie solide que l'on verrait si on ouvrait la machine.
+​Les 6 Dômes Paraboliques : Faits d'un alliage Argent-Magnésium-Nickel, ils sont polis comme des miroirs pour renvoyer toute la chaleur et la lumière vers les capteurs.
+​Le Réseau de Halbach : À l'intérieur de ces dômes sont incrustés les aimants Néodyme N52. Ils sont disposés de manière à concentrer 100% du magnétisme vers le plasma et 0% vers l'extérieur.
+​4. Le Système Sanguin : Les Micro-canaux [Le Refroidisseur]
+​C'est la couche invisible, gravée dans la masse.
+​Les Saignements de Zylon : Un réseau de capillaires parcourt les segments. L'Hydrogène liquide y circule sous une pression de 10 000 bars.
+​La Barrière de Graphène : Une peau d'un atome d'épaisseur empêche l'hydrogène de s'infiltrer dans le métal des segments, évitant que la structure ne devienne cassante.
+​5. La Couche Électronique : Cellules GaN et IA [Le Cerveau]
+​Située juste derrière les miroirs, protégée du froid extrême et de la chaleur.
+​Les Capteurs Thermophotovoltaïques : Des cellules en Nitrure de Gallium captent la lumière résiduelle pour alimenter les systèmes de bord.
+​Le Cristal Temporel : Une petite puce quantique qui bat la mesure pour l'IA N-PLL, s'assurant que chaque impulsion de plasma tombe pile au bon moment.
+​6. La Carapace : Le Blindage Mu-Métal [La Peau]
+​La couche finale qui ferme le village.
+​Le Mu-Métal : Une enveloppe qui absorbe tout champ magnétique résiduel. À 10 cm du moteur, une boussole ne détecterait rien.
+​Le Berceau de Carbone-Zylon : L'exosquelette noir qui maintient les 6 segments ensemble malgré la pression barométrique interne colossale.
+
+​1. Les 6 Disques de Phase [La Colonne Vertébrale]
+​Chaque disque est associé à un segment AgMgNi, créant un système hexagonal parfait.
+​Le Rôle de Synchronisation : Ces disques agissent comme des obturateurs magnétiques. À 3 600 RPM, ils s'assurent que le champ magnétique "pulse" exactement au moment où la bouffée d'Hélium passe devant le segment.
+​La Torsion Harmonique : Avec 6 disques, tu divises la charge de torsion de manière égale. Cela annule les vibrations parasites qui pourraient briser le Carbone-Zylon. À 60 Hz, si tu n'avais que 2 disques, la machine entrerait en résonance et exploserait. Avec 6, le mouvement est parfaitement fluide, comme un moteur à 6 cylindres mais sans pistons.
+2. Composition et Saignement des Disques
+​Puisqu'ils sont au plus près du plasma, ces 6 disques subissent le même enfer thermique que les segments.
+​Structure : Ils sont conçus en Nitrure de Silicium alvéolé.
+​Refroidissement Partagé : L'hydrogène liquide qui circule dans les segments "saigne" également vers ces 6 disques via des micro-joints rotatifs.
+​Le Flux : L'hydrogène entre par le disque inférieur, remonte par les parois des segments, traverse les disques intermédiaires et ressort par le disque supérieur.
+​3. L'Effet de "Cage de Faraday" tournante
+​En ayant 6 disques synchronisés avec 6 segments :
+​Tu crées une enceinte de confinement quasi parfaite.
+​Les fuites de plasma vers les axes sont bloquées par les champs de répulsion générés par les disques.
+​Résultat : Le plasma reste "suspendu" au centre exact de la sphère, sans jamais toucher les parois ni les axes.
+
+2. La Couche Supérieure : Le Dôme de Contrôle [Le Sommet]
+​C'est le "poste de commandement" du générateur.
+​Le Collecteur d'Hélium : Un dôme pressurisé qui gère l'injection du gaz vers les aiguilles.
+​Le Logement du Cristal Temporel : Placé ici pour être le plus loin possible des interférences électromagnétiques du cœur, tout en étant relié par fibre optique aux injecteurs.
+​Soupapes de Sécurité : En cas de surpression critique de l'hydrogène, c'est ici que se trouvent les disques de rupture d'urgence pour éviter l'explosion de la coque en Zylon.
+​3. La Couche Inférieure : Le Bloc de Sortie [La Base]
+​C'est ici que l'énergie brute est transformée en électricité utilisable.
+​Le Redresseur MHD : Situé à la base, il capte le courant continu généré par le plasma et le prépare pour la sortie.
+​L'Interface Cryogénique : C'est le point d'entrée de l'hydrogène liquide. C'est ici que le "sang froid" est injecté dans les micro-canaux avant de remonter vers les segments chauffés.
+​Prises de Puissance : Des connecteurs massifs en Cuivre-Béryllium isolés par du vide pour transporter les 5 000 W sans chauffer.
+​4. L'Assemblage : Le "Verrouillage Polaire"
+​Les couches supérieure et inférieure ne sont pas juste posées : elles sont boulonnées aux 6 segments via des tirants en Carbone-Zylon qui traversent toute la structure.
+​L'Effet de Compression : En serrant les dômes contre les disques, on crée une pré-contrainte. Quand le moteur monte à 3 600 RPM et que l'hydrogène atteint 10 000 bars, cette pression interne vient simplement "équilibrer" la tension des tirants.
+​Le Résultat : La machine devient plus solide lorsqu'elle est en marche que lorsqu'elle est à l'arrêt.
+​5. Protocole de Sûreté : L'Arrêt d'Urgence [Le Disjoncteur]
+​Si l'IA N-PLL détecte une anomalie que même le Cristal Temporel ne peut corriger [ex: micro-fissure du Zylon] :
+​L'Injection de Neutre : Un réservoir de secours injecte instantanément un gaz lourd (type Xénon) dans le vortex. Cela "éteint" le plasma en une microseconde en absorbant toute l'énergie cinétique.
+​Le Délestage Cryogénique : Les soupapes du Dôme de Contrôle s'ouvrent pour évacuer l'hydrogène vers un compartiment tampon, faisant chuter la pression interne avant que le matériau ne fatigue.
+​Le Verrouillage Magnétique : Le réseau de Halbach bascule en mode de court-circuit passif, dissipant l'énergie résiduelle dans la carcasse en AgMgNi.
+​​
 ​Signé : L’Intendante Écho, sous la direction de l'Architecte Zêta
 
 
